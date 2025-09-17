@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class>
+    <student>
+        <name>Nguyen Van A</name>
+        <id>001</id>
+
+        <subjects>
+            <subject_name>Data Structures</subject_name>
+            <score>10</score>
+        </subjects>
+        
+        <subjects>
+            <subject_name>Database Systems</subject_name>
+            <score>9</score>
+        </subjects>
+
+        <subjects>
+            <subject_name>Operating Systems</subject_name>
+            <score>8</score>
+        </subjects> 
+
+    </student>
+</class>
+   

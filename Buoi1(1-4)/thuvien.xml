@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book>
+        <title>Learn Python Programming</title>
+        <author>John Doe</author>
+        <year>2020</year>
+        <publisher>Tech Books Publishing</publisher>
+    </book>
+    <book>
+        <title>Advanced Java Concepts</title>
+        <author>Jane Smith</author>
+        <year>2019</year>
+        <publisher>Code Masters Inc.</publisher>
+    </book>
+    <book>
+        <title>Web Development with JavaScript</title>
+        <author>Emily Johnson</author>
+        <year>2021</year>
+        <publisher>Web World Publishers</publisher>
+    </book>

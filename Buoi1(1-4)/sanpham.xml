@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<store>
+    <product id="001">
+        <name>Quần Đùi</name>
+        <category>Thời Trang</category>
+        <price>30000</price>
+        <currency>VND</currency>
+    </product>
+    <product id="002">
+        <name>Áo Thun</name>
+        <category>Thời Trang</category>
+        <price>50000</price>
+        <currency>VND</currency>
+    </product>
+    <product id="002">
+        <name>Bàn Phím</name>
+        <category>Điện Tử</category>
+        <price>70000</price>
+        <currency>VND</currency>
+    </product>
+</store>
